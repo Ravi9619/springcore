@@ -1,0 +1,9 @@
+package com.spring.ref;
+
+public class A {
+	
+	private int x;
+	private B obj;
+	
+
+}

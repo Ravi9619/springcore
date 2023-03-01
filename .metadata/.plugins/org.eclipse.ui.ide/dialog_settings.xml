@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\RaviEclipse\RaviSpringJdbc"/>
+			<item value="D:\RaviEclipse\RaviSpringCore\RaviSpringJdbc"/>
+			<item value="D:\RaviEclipse\RaviSpringCore"/>
+			<item value="D:\JavaEclipseCopy\Servlet Ravi 2"/>
+			<item value="D:\JavaEclipseCopy\Servlet Ravi 1"/>
+			<item value="D:\JavaEclipseCopy\Ravi Servlet 3"/>
+			<item value="D:\JavaEclipseCopy\Ravi JSTL Example"/>
+			<item value="D:\JavaEclipseCopy\Ravi Jsp Filter"/>
+			<item value="D:\JavaEclipseCopy\Ravi AddModule Jsp"/>
+			<item value="D:\JavaEclipseCopy\ProjectWithMaeven"/>
+			<item value="D:\JavaEclipseCopy\Registration Module Practice Ravi"/>
+			<item value="D:\JavaEclipseCopy\Registration Module Ravi"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+</section>

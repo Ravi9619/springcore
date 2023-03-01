@@ -1,0 +1,22 @@
+
+Feb 26, 2023 17:42:04.219 NEW SESSION
+Feb 26, 2023 17:42:04.219 [10992:6232:0226/174204.216:ERROR:device_event_log_impl.cc(218)] [17:42:04.216] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 17:42:04.220 [10992:6232:0226/174204.216:ERROR:device_event_log_impl.cc(218)] [17:42:04.216] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 17:51:40.93 [10992:12212:0226/175140.093:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 26, 2023 18:38:00.686 [10992:12212:0226/183800.685:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 26, 2023 19:03:56.834 [10992:12212:0226/190356.832:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 26, 2023 19:03:57.603 [10992:6232:0226/190357.603:ERROR:device_event_log_impl.cc(218)] [19:03:57.603] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 26, 2023 19:03:58.897 [10992:12212:0226/190358.896:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 19:04:04.408 [10992:12212:0226/190404.408:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 26, 2023 19:04:07.347 [10992:12212:0226/190407.347:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 26, 2023 19:04:26.524 [10992:12212:0226/190426.523:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 26, 2023 19:05:07.652 [10992:12212:0226/190507.652:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 19:06:40.826 [10992:12212:0226/190640.819:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 26, 2023 19:06:42.827 [10992:12212:0226/190642.827:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2023 20:17:49.844 [10992:12212:0226/201749.844:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 26, 2023 21:08:14.747 [10992:12212:0226/210814.747:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 26, 2023 21:55:56.212 [10992:12212:0226/215556.211:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 26, 2023 22:00:08.198 [10992:12212:0226/220008.198:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 26, 2023 22:25:19.398 [10992:14448:0226/222519.397:ERROR:gcm_store_impl.cc(650)] LevelDB remove failed: NotFound: 
+Feb 26, 2023 22:25:19.398 [10992:12212:0226/222519.397:ERROR:mcs_client.cc(523)] GCM Update failed!
+Feb 26, 2023 22:28:15.746 [10992:12212:0226/222815.746:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
